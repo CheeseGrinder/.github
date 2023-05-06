@@ -6,7 +6,7 @@
 
 © 2023 Cheese-grinder
 
-[Cheese-grinder](https://github.com/CheeseGrinder)
+[Cheese-grinder](https://cheese-grinder.fr)
 
 </div>
 
