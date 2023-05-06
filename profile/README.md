@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Xenxia/Xenxia/blob/main/github-header-image.png?raw=true" alt="My Banner" />
+<img src="https://raw.githubusercontent.com/CheeseGrinder/.github/main/profile/github-header-image-Cheese-grinder7.png?raw=true" alt="My Banner" />
 
 ---
 
