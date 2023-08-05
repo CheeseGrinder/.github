@@ -20,6 +20,7 @@
 
 ### Framwork/Lib
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/NestJs-35495E?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
 
 ---
 
